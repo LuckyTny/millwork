@@ -24,6 +24,8 @@ main {
   width: 90%;
 }
 
+}
+
 .img {
   padding: 4rem;
 }
@@ -38,6 +40,9 @@ main {
 .info {
   display: flex;
   flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  
 }
 
 
